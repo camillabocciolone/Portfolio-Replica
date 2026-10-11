@@ -8,6 +8,17 @@ Replication of a black-box target portfolio using liquid futures, without knowin
 
 ---
 
+## Repository Structure
+
+| File | Description |
+|---|---|
+| `InvestmentReplica.ipynb` | Main notebook containing the complete portfolio replication pipeline and final models |
+| `failed_attempts.ipynb` | Exploratory notebook documenting approaches tested and discarded |
+| `PortfolioReplica_Presentation.pdf` | Project presentation |
+| `PortfolioReplica_Abstract.pdf` | Project abstract |
+
+---
+
 ## `InvestmentReplica.ipynb` — Main Notebook
 
 | Section | Content |
